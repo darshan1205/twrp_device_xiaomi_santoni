@@ -38,8 +38,8 @@ PRODUCT_COPY_FILES += \
     bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := land
-PRODUCT_NAME := full_land
+PRODUCT_DEVICE := santoni
+PRODUCT_NAME := full_santoni
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 3S
 PRODUCT_MANUFACTURER := Xiaomi

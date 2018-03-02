@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/xiaomi/land
+LOCAL_PATH := device/xiaomi/santoni
 
 # Architecture
 TARGET_ARCH := arm64
